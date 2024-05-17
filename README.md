@@ -22,10 +22,6 @@ Develop a robust system for detecting phishing emails using advanced natural lan
    - Metrics: Accuracy, Precision, Recall, F1-Score, AUC-ROC
    - Cross-validation for robustness
 
-5. **Deployment:**
-   - Model serialization (Pickle, Joblib)
-   - API integration with email systems
-   - Continuous learning for improvement
 
 ### Technical Stack
 
@@ -33,7 +29,6 @@ Develop a robust system for detecting phishing emails using advanced natural lan
 - **Libraries and Frameworks:** TensorFlow, Keras, NLTK, Scikit-learn, NumPy, Pandas
 - **Development Environment:** Jupyter Notebook
 - **Version Control:** Git
-- **Deployment:** Flask/Django for API development, Docker for containerization, cloud services (AWS/GCP/Azure)
 
 This project demonstrates proficiency in data preprocessing, feature engineering, model training, evaluation, and deployment, showcasing a comprehensive approach to solving real-world problems using state-of-the-art NLP and machine learning techniques.
 
@@ -42,8 +37,7 @@ This project demonstrates proficiency in data preprocessing, feature engineering
 1. **Clone the Repository:**
 
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Shadeslayer99/Email_Phishing-AI_Project/edit/main/README.md
     ```
 
 2. **Install Dependencies:**
